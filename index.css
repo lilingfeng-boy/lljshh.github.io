@@ -1,0 +1,21 @@
+h1 {
+    background-color: #3498db;
+    color: #ffffffff;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    width: 165px;
+    float: left;
+    background-color: #acacac;
+    color: #e74c3c;
+    list-style-type: none;
+    margin: 4px;
+    padding: 2px;
+    text-align: center;
+    cursor: pointer;
+}
